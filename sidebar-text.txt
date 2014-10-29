@@ -1,0 +1,69 @@
+[](http://i.imgur.com/AlBPKoU.png)
+The [current jailbreak](http://pangu.io) for iOS 8.x from the [Pangu Team](http://twitter.com/PanguTeam) is mostly just for developers right now and is not recommended for the casual user unless you are prepared to deal with bugs and experimenting to get things up and running on your device.
+
+* The current jailbreak does not include Cydia by default.    
+* Your device may freeze while booting if you have a passcode enabled.    
+* The quick photo access feature for sending photos in iMessage may not work.  (Fixed with [Pangu Untether 0.2](http://www.reddit.com/r/jailbreak/comments/2kjmbi/update_to_cydia_substrate_095014_fixes_issues/))    
+* Safari may stop loading web pages. (Fixed with [Pangu Untether 0.2](http://www.reddit.com/r/jailbreak/comments/2kjmbi/update_to_cydia_substrate_095014_fixes_issues/))    
+* Most tweaks aren't currently compatible.  (Check [here](http://www.reddit.com/r/jailbreak/wiki/ios8) for some compatible tweaks).
+
+[](http://i.imgur.com/27qSbQr.png)
+This subreddit is all about iOS jailbreaking: tweaks, news, and discussion about jailbroken iOS devices.
+
+Have you installed anything great lately?  Do you have a great idea for a tweak?  Have you written a cool tutorial?  Are you curious about how something works?  Let us know!  
+
+[](http://i.imgur.com/4PnghEt.png)
+If you want to discuss iOS theming, there's a subreddit for you!  Check out /r/iOSthemes today!
+
+[](http://i.imgur.com/C9zDYgb.png)
+[**Escape Plan**](http://www.reddit.com/r/jailbreak/wiki/escapeplan):  You can contribute to our list of recommended tweaks!
+[How to make a great /r/jailbreak post!](http://www.reddit.com/r/jailbreak/wiki/greatposts)
+Advice for asking for help, requesting tweaks, and announcing tweak releases and updates.
+
+[](http://i.imgur.com/iAympPL.png)    
+
+* **[Pangu 7.1-7.1.2 untethered jailbreak](http://en.pangu.io/)** (instructions). 
+* **[evasi0n7 iOS 7.0-7.0.6 untethered jailbreak](http://evasi0n.com/)** (workaround info).
+* How to fix weird Cydia errors.
+* **Jailbreaking question?** Consider asking **[JailbreakQA](http://www.jailbreakqa.com/)**, which specializes in helping. Its **[Frequently Asked Questions](http://www.jailbreakqa.com/faq)** page has guides to:
+ * Concerns about legality, warranty, stability, security, etc.
+ * iTunes restore error fixes
+ * Safe Mode fixes
+ * Mysterious problem fixes
+* **[Jailbrea.kr](http://jailbrea.kr/)** can tell you if your device can be jailbroken. /u/reeiiko15's [**Jailbreak Checker**](http://cydia.void-technologies.com/jailbreak/) is handy as well.
+* **Question or problem?** Try the **[/r/jailbreak wiki FAQ](http://www.reddit.com/r/jailbreak/wiki/faq)**.
+* **Curious about learning how to develop tweaks?** Check out the [**iPhoneDevWiki**](http://iphonedevwiki.net/index.php/Main_Page) (and its IRC channels).
+* **What to install?**
+ * Check out the community-maintained **[weekly roundups](http://www.reddit.com/r/jailbreak/wiki/roundup)** of tweak releases, updates, and other interesting news discussed on /r/jailbreak.
+ * Unofficial Cydia search sites: **[ModMyi](http://modmyi.com/cydia/)**, **[Planet-iPhones](http://planet-iphones.com/cydia/)**.
+ * Reviews: **[AppAdvice](http://appadvice.com/appnn/tag/jailbreak)**, **[CultOfMac](http://www.cultofmac.com/tag/jailbreak/)**, **[iDownloadBlog](http://www.idownloadblog.com/tag/jailbreak-apps-tweaks/)**, **[ModMyi](http://modmyi.com/content/category/cydia.html)**.
+* ***If you see a site selling jailbreaking or unlocking software (or asking you to do a survey before downloading), it's a scam.***
+
+[](http://i.imgur.com/wqjwsCr.png)
+/r/iOSthemes • /r/iPhone • /r/iPad • /r/AppleTV    
+**Subreddits for specific tweaks:**    
+/r/activator • /r/Convergance • /r/cylinder • /r/DynamicText • /r/FlexTweak • /r/jormy • /r/LockHTML3 • /r/ProWidgets • /r/Springtomize • /r/XPasscode
+
+[](http://i.imgur.com/3KmAbNV.png)
+
+1. /r/jailbreak does not allow piracy tools, sources, or websites. No pirated tweaks, apps, etc. Why?    
+
+2. Themes (and theme-related questions or news) should be posted in /r/iOSthemes.    
+
+3. Use tags in your title (Tags allow readers to automatically hide posts using RES):    
+ * **[Question]** - when asking questions.    
+ * **[Request]** - when requesting a tweak be made. 
+
+4. No misleading or sensationalized titles. Use detailed titles for both news and questions.    
+
+5. Link to the source of news, such as the developer who made the announcement, instead of linking to blogspam.
+
+6. No memes.    
+
+7. No posts about removing passcodes from locked devices or bypassing Activation Lock.    
+
+8. Giveaways cannot require more than comments for people to be eligible - no requiring likes/follows/etc.   
+ 
+9. Do not make posts asking for people to donate money to you so you can purchase tweaks. If you're in need of free money, check out /r/beermoney.    
+
+10. Be civil and friendly. No egregiously insulting/rude, sexist, racist, homophobic, transphobic, etc. comments or posts.
